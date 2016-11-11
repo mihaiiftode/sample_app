@@ -6,6 +6,7 @@ Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
 Email functionality is not activated on host, will result in an error.
+All image hosting is done on production, no s3 integration provided
 ## License
 
 All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
